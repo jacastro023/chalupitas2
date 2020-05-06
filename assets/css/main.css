@@ -4242,8 +4242,27 @@
 
 		@media screen and (max-width: 480px) {
 
+			.pictures{
+				height: 370px;
+				width: 375px;
+			}
+			.image-grid .image img {
+				width: 375px;
+				margin-left: 33.6px;
+			}
+			.carousel{
+				height: auto;
+			}
 			#footer .inner {
 				padding: 2em 0 0.1em 0;
 			}
 
 		}
+		/* @media screen and (max-width: 736px) {
+			#center1{
+				margin-left: 33.6px;
+			}
+			#margin1{
+				margin-bottom: 100px;
+			}
+		} */
