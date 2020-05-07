@@ -4137,7 +4137,12 @@
 		}
 
 /* Footer */
-
+.background1{
+	background-image: url(../../images/wood.jpeg);
+}
+.table2{
+	background-image: url(../../images/table2.jpg);
+}
 	#footer {
 		background-color: #1E2832;
 		color: rgba(255, 255, 255, 0.75);
