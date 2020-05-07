@@ -4140,6 +4140,13 @@
 .background1{
 	background-image: url(../../images/wood.jpeg);
 }
+.background3{
+	background-image: url(../../images/background3.jpg);
+}
+.background4{
+	background-image: url(../../images/background4.jpg);
+	background-size: cover;
+}
 .table2{
 	background-image: url(../../images/table2.jpg);
 }
