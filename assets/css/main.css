@@ -4150,6 +4150,11 @@
 .table2{
 	background-image: url(../../images/table2.jpg);
 }
+/* .icon{
+	border-radius: 50%;
+	padding: 0px;
+	border: 0px;
+} */
 	#footer {
 		background-color: #1E2832;
 		color: rgba(255, 255, 255, 0.75);
